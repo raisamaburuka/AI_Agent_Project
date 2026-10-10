@@ -380,7 +380,7 @@ p, label, .stMarkdown {
 [data-testid="stAudioInput"] {
     position: fixed !important;
     bottom: 58px !important;
-    left: calc(50% + 250px) !important;
+    left: calc(50% + 220px) !important;
     z-index: 999 !important;
     width: 46px !important;
     height: 46px !important;
